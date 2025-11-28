@@ -1,7 +1,7 @@
 import streamlit as st
 
-DOWNLOAD_URL_ALPHA = "Solar System.exe" 
-DOWNLOAD_URL_BETA = "Solar System Installer.exe" 
+DOWNLOAD_URL_ALPHA = "https://github.com/suhailasadiq666-beep/Solar-System-Installer/releases/download/nima/Solar.System.exe" 
+DOWNLOAD_URL_BETA = "https://github.com/suhailasadiq666-beep/Solar-System-Installer/releases/download/nima/Solar.System.Installer.exe" 
 
 st.set_page_config(page_title="Solar System Game Download")
 st.title("Download Solar System")
